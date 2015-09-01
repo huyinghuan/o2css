@@ -1,0 +1,11 @@
+{
+  "name": "o2css",
+  "version": "0.0.1",
+  "main": "lib/index.coffee",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "should": "^7.0.1"
+  }
+}
